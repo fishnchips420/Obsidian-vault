@@ -1,0 +1,15 @@
+{
+  "vimMode": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false
+}

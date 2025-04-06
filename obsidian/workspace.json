@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Porn HUB.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Porn HUB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "826c6d9ca2640b74",
+    "type": "split",
+    "children": [
+      {
+        "id": "767e462d1cd4479f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a01fa670fd4b7beb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0d660b24265ac89d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "oslo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "78db528a94740162",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f1eeea22b2bfb16e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d600894b8528cd72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16faad7d032494cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "appunti italiano.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for appunti italiano"
+            }
+          },
+          {
+            "id": "c647c4bf5de5044f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a96e4020ecd41bb3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59274f8135385e54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "appunti italiano.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of appunti italiano"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "obsidian",
+    "appunti scienze disumane.md",
+    "Porn HUB.md",
+    "Oslo.md",
+    "Project lalla.md",
+    "CHEAT SHEAT CREATIVA.md",
+    "appunti storia.md",
+    "appunti Filosofia.md",
+    "Appunti Cheat sheet.md",
+    "appunti italiano.md",
+    "4-assets/shit scolastica/derivate3.xopp",
+    "appunti diritto.md",
+    "4-assets/schoolbooks/Diritto_ed_economia_politica__LES__vol__3.xopp~",
+    "grafico della stronza.md",
+    "4-assets/schoolbooks/libro scienze umane.xopp~",
+    "appunti spagnolo.md",
+    "cheat sheat comandi.md",
+    "appunti matematica.md",
+    "4-assets/shit scolastica/un altro giorno diordinaria follia.xopp",
+    "influsenza sociale.md",
+    "skill.md",
+    "uni.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "appunti diritto formattati.md",
+    "Untitled 2.md",
+    "ciao ciccio.md",
+    "Appunti diritto Tilde.md",
+    "secret pjocet L.T.A..md",
+    "menu.md",
+    "il mio flusso.md",
+    "il mio flusso.pdf",
+    "4-assets/shit scolastica/screenshot_14032025_114022.jpg",
+    "viaggio 1 scout.png",
+    "Viaggio 2 scout.png",
+    "4-assets/shit scolastica/asintoti.xopp",
+    "4-assets/shit scolastica/asintoti.jpg",
+    "4-assets/shit scolastica/Diritto/fallimento del governo 4.jpeg",
+    "4-assets/shit scolastica/Diritto/fallimento del governo 3.jpeg",
+    "4-assets/shit scolastica/Diritto/fallimento del governo 2.jpeg",
+    "4-assets/shit scolastica/Diritto/fallimento del governo 8.jpeg",
+    "4-assets/shit scolastica/Diritto/fallimento del governo 7.jpeg",
+    "Pasted image 20250307130719.png",
+    "4-assets/shit scolastica/Diritto",
+    "4-assets/schoolbooks/mappa spagnolo.xopp",
+    "4-assets/schoolbooks/mappa spagnolo.pdf",
+    "5-exports/appunti scienze disumane.pdf"
+  ]
+}
