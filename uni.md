@@ -16,6 +16,7 @@ AIV offre corsi in programmazione per videogiochi, fornendo agli studenti una fo
 L'Istituto Pantheon offre un corso di laurea in Progettazione Multimediale con un modulo dedicato al game development. Questo modulo copre la programmazione in Unity e l'intero processo di sviluppo di un videogioco, dalla progettazione alla messa sul mercato. citeturn0search11
 
 Queste istituzioni combinano competenze tecniche e artistiche, offrendo una formazione completa nel campo dello sviluppo di videogiochi. Ti consiglio di visitare i siti web delle rispettive scuole per ottenere informazioni più dettagliate sui corsi offerti, i requisiti di ammissione e le modalità di iscrizione.
+amen.
 
 # E.U.
 Ecco alcune delle migliori università europee per l'ingegneria multimediale, la programmazione e il game design:
