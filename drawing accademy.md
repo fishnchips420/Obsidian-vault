@@ -1,7 +1,5 @@
+___
 # Emozioni
-
-
----
 
 1. Studia le emozioni base
 
