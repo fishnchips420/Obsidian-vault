@@ -918,3 +918,22 @@ Questa puntualità, considerata da lui come dovere imprescindibile, gli accresce
 Per poter essere meno frettolosamente puntuale, credeva d’aiutarsi meditando la notte. Ma, neanche a farlo apposta, la notte spazzolando la mano a quei suoi capelli da negro e guardando le stelle, gli venivano tutti i pensieri contrari a quelli che dovevano fare al caso per lui, data la sua qualità di giudice istruttore; così che, la mattina dopo, anziché aiutata, vedeva insidiata e ostacolata la sua puntualità da quei pensieri della notte e cresciuto enormemente lo stento di tenersi stretto a quell’odiosa sua qualità di giudice istruttore.
 
 Eppure, per la prima volta, da circa una settimana, dormiva un incartamento sul tavolino del giudice D’Andrea. E per quel processo che stava lì da tanti giorni...
+
+# Pirandello uomo e societa
+come reagisconmo i personaggi che vivono una vita soffocante dalla societa 
+1) adeguando
+2) tentando di rifarsi una vita
+3) rifiutando la societa 
+	- isolandosi
+	- manicomio
+
+uomo -> imprigionato nelle convenzioni sociali come la famiglia e il lavoro 
+
+1 cellula sociale in cui lindividuo deve interpetrare un ruolo 
+per riappropriarsi della propria identita l'uomo deve scardinare il porprio impianto familliare ma facendo cio si accorge che fuori di essa e fuori dai ruola che la societa ha costruito 
+
+__non si puo esistere__ se non esiste si e solo spettatori della vita altrui  
+
+## La filosofia del lontano 
+- elabora la filosofia del lontano
+	- e il distacco dalla vita x avere una prospettiva estraenata che ridimensioni le vicende personali ed eviti il dolore che comportano 
