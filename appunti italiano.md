@@ -937,3 +937,18 @@ __non si puo esistere__ se non esiste si e solo spettatori della vita altrui
 ## La filosofia del lontano 
 - elabora la filosofia del lontano
 	- e il distacco dalla vita x avere una prospettiva estraenata che ridimensioni le vicende personali ed eviti il dolore che comportano 
+
+## l'umorismo 
+nasce come distrazione accademica 
+- composto da due parti
+	1) lautore passa in rassegna i testi da un conributo umoristico
+	2) p. prpopone la sua definizione  di umorismo analizzando i porvcessi psicologici che circondano la situazione umoristica 
+
+- distingue due concentti 
+	1) __il comico__ 
+		- e lavverimento del contrario cioe la percezione di qualcosa di contradditorio che induce al riso
+	2) __umorismo__
+		- e il __sentimento del contrario__ perche consiste nella riflessione su fatti apparentemente comici che , se osservati attentamente __danno origine a un sentimento di compassione__ 
+			- __il contrario e generato dalla consapevolezza__ di un senso piu profondo che __svela una realta altrimenti inconoscibile__ 
+				- lo scrittore vede nella _realta una costruzione finta del sentimento percio smonta e la scompone_ 
+					- cio porta alla luce il __dissidio tra forma e vita__ 
