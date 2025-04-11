@@ -20,6 +20,7 @@
 ---
 [[appunti fisica]]
 ---
+[[Appunti Arte]]
 ---
 
 # ESERCIZI & ALTRA SHIT
