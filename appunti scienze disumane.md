@@ -326,3 +326,33 @@ per fare male non e necessario essere malvagi
 
 #### L uso del pensiero previene il male 
 _pensare_ non e studiare , ma applicare un _pensiero criti sulla propria vita per _distinguere_ personalmente cio che e _bene_ e cio che e _male_ 
+
+## Processo di Heincman 
+
+heincman scappo in __argentina__ con laiuto dello __stato pontificio__ per le tutetel che questo paese offriva
+venne rintracciato dalla __polizia segreta__ e venne rapito a gerusalemme
+
+heincman aveva ricoperto un ruolo di primo piano nel trasporto degli ebrei nel campo 
+- l'opinione pubblica era incattivita 
+- era molto odiato
+
+la __arendt__ dette un __giudizio controverso__ 
+	 
+## Gli esperimenti di __Milgram__
+
+__legge morale__
+- non fare agli altri quello che non vuoi che sia fatto a te
+legge etica 
+- -
+__dovere sociale__ 
+-  i comportamenti socialmente attesi da un superiore (nazisti)
+
+nella maggior parte dei casi dell esperimento non riusciva a far valere la __legge morale__ piu del __dovere sociale__ 
+
+questo esperimento affronta il __contrasto__ tra la __moralita__ che sente il soggetto che somministra le cariche e il __dovere sociale__ alimentato dallo sperimentatore il quale spinge al soggetto a continuare lesperimento __prendendosi la responsabilita__  
+
+### Stato eterogenico
+>_condizione per la quale un singolo o un gruppo sociale agisce per leggi esterne , rispetto alle proprie leggi morali_
+
+
+

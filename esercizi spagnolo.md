@@ -375,3 +375,30 @@ Aquí tienes tres versiones diferentes en un nivel de español B1:
 
 ---
 
+# Redes sociales
+1. d
+2. a
+3. i
+4. g
+5. l
+6. b
+7. k
+8. c
+9. e
+10. h
+11. f
+12. j
+
+---
+
+no creo que hay une fuerte distincion entre publico y privado sobre la redes sociales porque todos los dias mostramos sobre los social nuestra vida revelando informaxciones perconales a grandes companias 
+
+entre las cosa sque podemos hacer con la redes sociales dar a conocer situaciones de peligro , pedir ayuda , convocar personas y promocionar entidades y organizaciones que ayudan al projimo , etc.
+tambien buscar trabajo.
+
+la finalidad de la campana  "peru de la mano" es ayudar las familias con agua y alimentos 
+
+NO CAPITA 
+
+los companerso de juan no se presentanos a su compleano porque era un chico autistico.
+la madre ha hechi un apello sobre facebook y se sopn presentados 25 adultos y 15 chicos , tambien los bomberos le han hecho hacer una vuelta con sus mezos
