@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Porn HUB.md",
+                "file": "Appunti Cheat sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Porn HUB"
+              "title": "Appunti Cheat sheet"
             }
           }
         ]
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f20d39b9cfac9aa7",
@@ -170,11 +170,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4b163f7a7010bfb4",
   "lastOpenFiles": [
+    "Porn HUB.md",
     "esercizi spagnolo.md",
     "Appunti Cheat sheet.md",
-    "Porn HUB.md",
     "appunti scienze disumane.md",
     "Appunti Arte.md"
   ]
