@@ -33,3 +33,6 @@ Data una caricaQpositiva, sorgente del campo, poniamo in A una ca-rica esploratr
 	• intensità molto piccola o comunque trascurabile (in modo da non influenzare il campo generato da Q).
 	![[Pasted image 20250305191553.png]]
 
+![[Screenshot 2025-05-05 233841.png]]
+
+![[Screenshot 2025-05-05 233850.png]]

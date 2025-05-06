@@ -402,3 +402,29 @@ NO CAPITA
 
 los companerso de juan no se presentanos a su compleano porque era un chico autistico.
 la madre ha hechi un apello sobre facebook y se sopn presentados 25 adultos y 15 chicos , tambien los bomberos le han hecho hacer una vuelta con sus mezos
+
+---
+# Es pag 105 
+Certo! Ecco la **Ejercicio 14** con le frasi riformulate mantenendo lo stesso significato, seguendo l’esempio già dato:
+
+2. _Estudiantes de las últimas generaciones_  
+    → Los chicos que han nacido recientemente.
+    
+3. _Los nativos digitales_  
+    → Los jóvenes que han crecido con ordenadores e Internet.
+    
+4. _Son consumidores y productores de casi todo lo que existe en la red y piensan y procesan la información de manera diferente a sus predecesores._  
+    → Utilizan Internet para crear y consumir contenidos y entienden los datos de forma distinta a las generaciones anteriores.
+    
+5. _Los inmigrantes digitales_  
+    → Las personas mayores que no han crecido con la tecnología digital.
+    
+6. _Han tenido que aprender a usar los medios digitales que han sustituido al mundo analógico._  
+    → Se han visto obligados a familiarizarse con la tecnología moderna que ha reemplazado lo analógico.
+    
+7. _La denominación acuñada por Prensky ha superado ampliamente el uso de otras denominaciones contemporáneas._  
+    → El término creado por Prensky es mucho más utilizado que otros nombres actuales.
+    
+
+Hai bisogno che te le trasformi anche in domande e risposte per Quizlet?
+
