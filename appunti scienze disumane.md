@@ -297,16 +297,33 @@ _con il termine totalitarismo si intende un sistema politico totalitario in cui 
 #### Quali esistono
 - nazismo
 - stalinismo
+- portogallo olivera
+- franchismo
+- corea del nord 
 
 ## Regimi totalitari 
 
 ## Fascismo italiano
-e un totalitarismo imperfetto
+_un totalitarismo imperfetto_
+1921 un partito di persone attiv nel dopoguerra volenterose di riscatto 
+28 ottobre 1922 marcia su roma attraverso la quale musoslini viene incaricato dal re di formare il nuovo governo e di esserne capo __al posto di dichiarare lo stato di assedio__
+1922 delitto matteotti  
 il totalitarismo comincia con le leggi fascistissime
+nasce il gran consiglio del fascismo
+## Caratteri del fascismo
+si fa chiamare duce 
+abolizione dei sindacati e dello sciopero
+- monopolio della cultura
+	- educazione
+		- per ogni bambino ragazzo esiste una fascia dove partecipare 
+	- istituto luce
+
+nascono inf e inail fasciste
 
 # Analisi post guerra morale 
 
 ## Arendt hanna
+_nasce da una famiglia tedesca ebrea_
 - _hanna_ assiste al processo di un nazista 
 	viene condannato a morte nel maggio 1962 
 	viene pubblicato il resoconto del processo sul _new york times_
@@ -317,6 +334,25 @@ il totalitarismo comincia con le leggi fascistissime
 	il luogo dove si afferma il _pensiero critico_ 
 		dove si puo __criticare__
 			la __critica__ e un opposizone e fondamentale per prendere le scelte giuste con __diversi__ punti di vista   
+
+### Le origini del totalitarismo
+_un testo pubblicato da lei_
+si interroga su come sia potuto succedere
+e una societa di massa per lisolamento degli individui 
+antisemitismo imperialismo e societa di massa 
+- societa di massa
+	- le differenze tra gli individui si affievoliscono , creando una __comunanza di pensieri__ anche tra classi diverse 
+- imperialismo
+	- si afferma la classe della borghesia
+	- le colonie affermano l'indipendenza 
+- antisemitismo
+	- pensiero che nasce dall antichita __contro agli ebrei__ , un nemico comune (caratteristica fondamentale nei totalitarismi per mantenere __coesione sociale__)
+
+### Caratteri
+- terrore 
+- ideologia
+	- Il complesso di credenze , opinioni , rappresentazioni , valori , che orientano un determinato gurppo sociale 
+  
 ### La banalita del male 
 _il piu grande libro pubblicato da lei_
 - la cattiveria pura non esiste , e _l assenza di pensiero_ in uomini del tutto normali 

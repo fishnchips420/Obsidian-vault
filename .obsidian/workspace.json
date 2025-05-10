@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "appunti fisica.md",
-                "mode": "preview",
+                "file": "appunti scienze disumane.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "appunti fisica"
+              "title": "appunti scienze disumane"
             }
           }
         ]
@@ -173,10 +173,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Appunti Cheat sheet.md",
-    "appunti spagnolo.md",
+    "4-assets/shit scolastica/Punti di deravibilita.xopp",
     "Porn HUB.md",
     "appunti fisica.md",
+    "Appunti Cheat sheet.md",
+    "appunti spagnolo.md",
     "Screenshot 2025-05-05 233850.png",
     "Screenshot 2025-05-05 233841.png",
     "esercizi spagnolo.md",
