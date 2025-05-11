@@ -283,17 +283,27 @@ la disoccupazione e uno stato in cui si trovano individui tra i *16 e 70* anni
 -----> collegamento al [[#Welfare , Politiche sociali , Terzo settore|welfare]]
 # Totalitarismi
 pag 625
-_con il termine totalitarismo si intende un sistema politico totalitario in cui il potere si contentra in un_ __partito unico__
-
+_regimi politici tipici del 900 sistema in cui il potere si contentra in un_ __partito unico__
+il termine viene indicato da __Giovanni Amendola__ per indicare in modo dispregiativo il fascismo , dopo Mussolini abbraccio il termina definendolo come obbiettivo 
 ## Caratteristiche 
 - __partito unico__
 - __ideologia__
+	- orienta le masse 
+- Terrore
+	- polizia segreta 
+	- campo concentramento 
+	- esilio dal proprio paese 
+	- spionaggio
+- Isolamento 
+	- attraverso la mancanza di fiducia delle persone intorno a se 
+	- la fiducia viene riposta nello stato per la forza 
 - __comando delle forze armate__ 
 - _polizia segreta_ 
 		crea un clima di __paura__ verso _il nemico creato da loro_  
-
 - propaganda
 	manipolaizone mentale della societa di massa 
+- ordine gerarchico
+	- determina il potere la vicinanza al capo 
 #### Quali esistono
 - nazismo
 - stalinismo
@@ -311,8 +321,15 @@ _un totalitarismo imperfetto_
 il totalitarismo comincia con le leggi fascistissime
 nasce il gran consiglio del fascismo
 ## Caratteri del fascismo
-si fa chiamare duce 
-abolizione dei sindacati e dello sciopero
+si fa chiamare duce
+- mono partito 
+- leggi fascistissime del 1925
+	- gran consiglio del fascismo sost. parlamento 
+- e un totalitarismo imperfetto
+	- patti laterananesi
+	- presenza di grandi imprese
+	- presenza del re 
+- abolizione dei sindacati e dello sciopero
 - monopolio della cultura
 	- educazione
 		- per ogni bambino ragazzo esiste una fascia dove partecipare 
@@ -320,11 +337,16 @@ abolizione dei sindacati e dello sciopero
 
 nascono inf e inail fasciste
 
+## Caratteri dei regimi autoritari
+_non e un totalitarismo_
+pluralita politica (comunaue molto debole)
+poca azione politica 
+
 # Analisi post guerra morale 
 
 ## Arendt hanna
 _nasce da una famiglia tedesca ebrea_
-- _hanna_ assiste al processo di un nazista 
+- _hanna_ assiste al processo di un gerarca nazista 
 	viene condannato a morte nel maggio 1962 
 	viene pubblicato il resoconto del processo sul _new york times_
 
@@ -335,35 +357,46 @@ _nasce da una famiglia tedesca ebrea_
 		dove si puo __criticare__
 			la __critica__ e un opposizone e fondamentale per prendere le scelte giuste con __diversi__ punti di vista   
 
-### Le origini del totalitarismo
+### Le origini del totalitarismo _(1951)_
 _un testo pubblicato da lei_
-si interroga su come sia potuto succedere
+si interroga su __come sia potuto succedere__
 e una societa di massa per lisolamento degli individui 
 antisemitismo imperialismo e societa di massa 
-- societa di massa
-	- le differenze tra gli individui si affievoliscono , creando una __comunanza di pensieri__ anche tra classi diverse 
-- imperialismo
+- __societa di massa__
+	- le differenze tra gli individui si affievoliscono , creando una __omologazione di pensieri__ anche tra classi diverse 
+- __imperialismo__
 	- si afferma la classe della borghesia
 	- le colonie affermano l'indipendenza 
-- antisemitismo
+- __antisemitismo__
 	- pensiero che nasce dall antichita __contro agli ebrei__ , un nemico comune (caratteristica fondamentale nei totalitarismi per mantenere __coesione sociale__)
+	- __shoa__
+		- un luogo nel quale si crea linsensatezza
+			- vengono puniti senza che ci sia un reato
+			- lavorano senza vedere il prodotto
+- __nazionalismo__ 
+	- affermarsi dell importanza della nazione , forza che si esprime attraverso imporsi 
 
 ### Caratteri
 - terrore 
 - ideologia
 	- Il complesso di credenze , opinioni , rappresentazioni , valori , che orientano un determinato gurppo sociale 
   
-### La banalita del male 
+### La banalita del male _(1963)_ 
 _il piu grande libro pubblicato da lei_
+questo libro viene scritto dopo aver visto il processo di heincman da studiosa 
 - la cattiveria pura non esiste , e _l assenza di pensiero_ in uomini del tutto normali 
 per fare male non e necessario essere malvagi 
 	__un uomo normale__ , quando viene _investito dal potere del nazismo_ e capace di _produrre male atroce_ 
 	_ho solo eseguito gli ordini_
+differenza tra shoa ed olocautsot
 
+la shoa vuol dire disastro in ebraico
+olocausto e sacrificio volontario 
 #### L uso del pensiero previene il male 
 _pensare_ non e studiare , ma applicare un _pensiero criti sulla propria vita per _distinguere_ personalmente cio che e _bene_ e cio che e _male_ 
+la ideologia da una interpetazione semplice della realta 
 
-## Processo di Heincman 
+#### Processo di Heincman 
 
 heincman scappo in __argentina__ con laiuto dello __stato pontificio__ per le tutetel che questo paese offriva
 venne rintracciato dalla __polizia segreta__ e venne rapito a gerusalemme
@@ -386,6 +419,8 @@ __dovere sociale__
 nella maggior parte dei casi dell esperimento non riusciva a far valere la __legge morale__ piu del __dovere sociale__ 
 
 questo esperimento affronta il __contrasto__ tra la __moralita__ che sente il soggetto che somministra le cariche e il __dovere sociale__ alimentato dallo sperimentatore il quale spinge al soggetto a continuare lesperimento __prendendosi la responsabilita__  
+
+
 
 ### Stato eterogenico
 >_condizione per la quale un singolo o un gruppo sociale agisce per leggi esterne , rispetto alle proprie leggi morali_

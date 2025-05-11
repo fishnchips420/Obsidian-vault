@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "appunti scienze disumane.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f20d39b9cfac9aa7",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Porn HUB.md",
+                "file": "appunti scienze disumane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Porn HUB"
+              "title": "Backlinks for appunti scienze disumane"
             }
           },
           {
@@ -173,16 +172,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "4-assets/shit scolastica/Punti di deravibilita.xopp",
     "Porn HUB.md",
-    "appunti fisica.md",
+    "appunti scienze disumane.md",
     "Appunti Cheat sheet.md",
+    "4-assets/shit scolastica/Punti di deravibilita.xopp",
+    "appunti fisica.md",
     "appunti spagnolo.md",
     "Screenshot 2025-05-05 233850.png",
     "Screenshot 2025-05-05 233841.png",
     "esercizi spagnolo.md",
     "Pasted image 20250505084209.png",
-    "appunti scienze disumane.md",
     "Appunti Arte.md"
   ]
 }
