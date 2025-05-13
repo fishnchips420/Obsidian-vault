@@ -450,3 +450,10 @@ envie
 6. leyerais
 7. compremos
 8. compraramos
+
+geo blink 
+se dedica a estudio de statisticas de su clientes
+
+una start up ue se dedica a los impresea a poner su tendas ne los sitos mas adeguado
+
+es la start up mas promenedora del mundo
