@@ -441,3 +441,12 @@ se ponen
 sabia
 me mando 
 envie 
+
+1. 
+2. 
+3. sea
+4. fuera
+5. leais
+6. leyerais
+7. compremos
+8. compraramos

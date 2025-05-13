@@ -125,3 +125,15 @@ Certo! Ecco l’elenco con la traduzione accanto al nome delle professioni:
 		- un intrattenimento superfluo che non isnegna niente di importante
 		- problemi di attenzione sul nascere
 	- SI perche e pericolosa per i bambini 
+
+- que es la memoria de trabajo
+- quale es el limite de enuestro celebro 
+- porque es a collo de botella 
+	- atencion
+	- memoria de trabajo 
+
+generacion nativos digitales
+
+- si sono dvuti adattare al mondo della teconologia , persone tra i 25 e i 70 che sono nati in un era pre digitale
+
+rete socialres 

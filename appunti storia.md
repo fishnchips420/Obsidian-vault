@@ -337,4 +337,13 @@ Ecco il riassunto della Seconda Guerra Mondiale basato sui tuoi appunti:
 - **2 settembre 1945**: resa del Giappone → fine della Seconda Guerra Mondiale.
 
 ---
+# La guerra fredda
 
+si dividono due superpotenze 
+- urss
+- stati uniti
+
+   ## Piani per risollevare la economia 
+- america
+	- piano marshall
+		prestiti agli stati europei per farli ricostruire e mettere in piedi la loro economia
