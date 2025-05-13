@@ -283,26 +283,26 @@ la disoccupazione e uno stato in cui si trovano individui tra i *16 e 70* anni
 -----> collegamento al [[#Welfare , Politiche sociali , Terzo settore|welfare]]
 # Totalitarismi
 pag 625
-_regimi politici tipici del 900 sistema in cui il potere si contentra in un_ __partito unico__
+>_regimi politici tipici del 900 sistema in cui il potere si contentra in un_ __partito unico__
 il termine viene indicato da __Giovanni Amendola__ per indicare in modo dispregiativo il fascismo , dopo Mussolini abbraccio il termina definendolo come obbiettivo 
 ## Caratteristiche 
 - __partito unico__
 - __ideologia__
 	- orienta le masse 
-- Terrore
+- __Terrore__
 	- polizia segreta 
 	- campo concentramento 
 	- esilio dal proprio paese 
 	- spionaggio
-- Isolamento 
+- __Isolamento__ 
 	- attraverso la mancanza di fiducia delle persone intorno a se 
 	- la fiducia viene riposta nello stato per la forza 
 - __comando delle forze armate__ 
 - _polizia segreta_ 
 		crea un clima di __paura__ verso _il nemico creato da loro_  
-- propaganda
+- __propaganda__
 	manipolaizone mentale della societa di massa 
-- ordine gerarchico
+- __ordine gerarchico__
 	- determina il potere la vicinanza al capo 
 #### Quali esistono
 - nazismo
@@ -342,9 +342,7 @@ _non e un totalitarismo_
 pluralita politica (comunaue molto debole)
 poca azione politica 
 
-# Analisi post guerra morale 
-
-## Arendt hanna
+# Arendt hanna
 _nasce da una famiglia tedesca ebrea_
 - _hanna_ assiste al processo di un gerarca nazista 
 	viene condannato a morte nel maggio 1962 
@@ -379,7 +377,7 @@ antisemitismo imperialismo e societa di massa
 ### Caratteri
 - terrore 
 - ideologia
-	- Il complesso di credenze , opinioni , rappresentazioni , valori , che orientano un determinato gurppo sociale 
+>	- Il complesso di credenze , opinioni , rappresentazioni , valori , che orientano un determinato gruppo sociale 
   
 ### La banalita del male _(1963)_ 
 _il piu grande libro pubblicato da lei_
@@ -409,12 +407,10 @@ la __arendt__ dette un __giudizio controverso__
 	 
 ## Gli esperimenti di __Milgram__
 
-__legge morale__
-- non fare agli altri quello che non vuoi che sia fatto a te
-legge etica 
-- -
-__dovere sociale__ 
--  i comportamenti socialmente attesi da un superiore (nazisti)
+- __legge morale__
+	- non fare agli altri quello che non vuoi che sia fatto a te
+- __dovere sociale__ 
+	-  i comportamenti socialmente attesi da un superiore (nazisti)
 
 nella maggior parte dei casi dell esperimento non riusciva a far valere la __legge morale__ piu del __dovere sociale__ 
 

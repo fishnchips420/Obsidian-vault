@@ -428,3 +428,16 @@ Certo! Ecco la **Ejercicio 14** con le frasi riformulate mantenendo lo stesso si
 
 Hai bisogno che te le trasformi anche in domande e risposte per Quizlet?
 
+# Pag 110
+es 1 
+1. un colega de mi padre me aconsejo que haga un curso en linea
+2. no creia que esto se puede guardar em òa mine 
+3. nos pidieron que no encedamo el ordenardor sin su permiso 
+4. espere que detengan pronto al ciberacosador del insitituto
+5. me extrano' que ahora no haya nadie en el despacho del director
+
+lo ayude 
+se ponen 
+sabia
+me mando 
+envie 

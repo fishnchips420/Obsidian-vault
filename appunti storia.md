@@ -337,3 +337,4 @@ Ecco il riassunto della Seconda Guerra Mondiale basato sui tuoi appunti:
 - **2 settembre 1945**: resa del Giappone → fine della Seconda Guerra Mondiale.
 
 ---
+

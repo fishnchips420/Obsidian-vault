@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "f1c49bfaf6a4e77c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6671eaa4f8bad4f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "appunti scienze disumane.md",
-                "mode": "preview",
+                "file": "appunti spagnolo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "appunti scienze disumane"
+              "title": "appunti spagnolo"
+            }
+          },
+          {
+            "id": "974d890b9b30885a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "esercizi spagnolo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "esercizi spagnolo"
+            }
+          },
+          {
+            "id": "2faf96ae26ff4fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "appunti storia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "appunti storia"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f20d39b9cfac9aa7",
@@ -170,17 +200,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2faf96ae26ff4fee",
   "lastOpenFiles": [
-    "Porn HUB.md",
-    "appunti scienze disumane.md",
     "Appunti Cheat sheet.md",
+    "Porn HUB.md",
+    "esercizi spagnolo.md",
+    "appunti spagnolo.md",
+    "appunti scienze disumane.md",
     "4-assets/shit scolastica/Punti di deravibilita.xopp",
     "appunti fisica.md",
-    "appunti spagnolo.md",
     "Screenshot 2025-05-05 233850.png",
     "Screenshot 2025-05-05 233841.png",
-    "esercizi spagnolo.md",
     "Pasted image 20250505084209.png",
     "Appunti Arte.md"
   ]

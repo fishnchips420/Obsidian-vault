@@ -117,3 +117,11 @@ Certo! Ecco l’elenco con la traduzione accanto al nome delle professioni:
 | ¿Qué acontecimiento inspiró a Picasso a pintar “Guernica”?                                                                                                | El bombardeo de Guernica por la aviación nazi en 1937.                                                                                                                                                                                                                                                                                                                                                           |
 | ¿Qué animales aparecen en la escena?                                                                                                                      | Un toro y un caballo, símbolos de España y el sufrimiento.                                                                                                                                                                                                                                                                                                                                                       |
 | ¿Quién es Dora Maar?                                                                                                                                      | Fotógrafa surrealista y pareja de Picasso.                                                                                                                                                                                                                                                                                                                                                                       |
+
+# domande interrogazione net
+- la tecnologia e dannosa per i bambini?
+	- NO  la teconologia insegna ai baminin a muoversi nel mondo digitale , fondamentale per il mondo di oggi
+	- SI perche viene usato come intrattenimento erogato dai genitori per distrarli
+		- un intrattenimento superfluo che non isnegna niente di importante
+		- problemi di attenzione sul nascere
+	- SI perche e pericolosa per i bambini 
