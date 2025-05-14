@@ -952,3 +952,21 @@ nasce come distrazione accademica
 			- __il contrario e generato dalla consapevolezza__ di un senso piu profondo che __svela una realta altrimenti inconoscibile__ 
 				- lo scrittore vede nella _realta una costruzione finta del sentimento percio smonta e la scompone_ 
 					- cio porta alla luce il __dissidio tra forma e vita__ 
+
+
+# cosi e (se vi pare)
+
+in questo paese P. affronta limpossibilita di avere una visione unica e certa della realta 
+- trama 
+	il signor ponza lavora per la prefettura e si e appena trasferito in una nuova citta con la moglie e la suocera 
+
+prende in affitto de appartamenti uno per se e uno per la suocera , che si trovano uno sotto all altro 
+
+madre e figlia comunicano tramite dei bigliettini che si scambiano passandoseli tramite un paniere , questo causa una grande curiosita da parte dei popolani del paese , inizia cosi una indagine collettiva per far luce sulla vicenda 
+
+- ponza
+	- il signor ponza afferma che questo sistema dei bigliettini si è reso necessario poichè la suocera non ha accettato la morte della figlia in un terrremoto , prima moglie di ponza 
+- frola
+	- sia il genero ad avere problemi mentali poichè dopo aver soggiornato in un istituto di cura non riconosce piu la moglie 
+
+>l'opera si conclude con l'apparire della signora ponza che si presenta velata (non facendo vedere il suo volto) e afferma di essere colei che si crede , quindi ne una ne l'altra oppure tutte e due o ancora l'una o l'altra 
