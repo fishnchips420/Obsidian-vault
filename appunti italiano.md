@@ -970,3 +970,28 @@ madre e figlia comunicano tramite dei bigliettini che si scambiano passandoseli 
 	- sia il genero ad avere problemi mentali poichè dopo aver soggiornato in un istituto di cura non riconosce piu la moglie 
 
 >l'opera si conclude con l'apparire della signora ponza che si presenta velata (non facendo vedere il suo volto) e afferma di essere colei che si crede , quindi ne una ne l'altra oppure tutte e due o ancora l'una o l'altra 
+
+   
+la produzione teatrale pirandelliana si sviluppa in un arco temporale che va dagli ultimi decenni dell'ottocento fino alla morte dello scrittore (1936). è articolabile in 4 fasi
+
+1. __Il teatro siciliano__
+	- ce gia una contrapposizione tra gli istinti primari dell individuo rispetto all obbligo della societa 
+2. __teatro del grottesco__
+	- con questa corrente del suo teatro decide di scollarsi al teatro borghese , infila nelle sue opere elementi controversi , allontanandosi dall ideologia teatrale del tempo , con una chiave __umoristica__
+	- _cosi e se vi pare_ 
+	- il grottesco e un qualcosa che fa pensare anche se non ne abbiamo voglia 
+3. __meta teatro__ 
+	- _andare olte al teatro_
+	- lintento di pirandello e che si faccia una riflessione sul teatro perche sta spezzando la convenzione del teatro
+	- la __scomparsa della 4 parete__
+		- presa di coscienza da parte del pubblico
+		- crolla l'illusione teatrale 
+		- si rompe la struttura lineare del tempo 
+			- struttura aperta e l'impossibilita del dramma
+	- 
+	- il dramma dei personaggi consiste nel conflitto tra __arte e vita , tra finzione e realta__ 
+
+
+
+
+4. __teatro dei Miti__ 

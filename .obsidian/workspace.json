@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Porn HUB.md",
-                "mode": "preview",
+                "file": "appunti italiano.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Porn HUB"
+              "title": "appunti italiano"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appunti scienze disumane.md",
+                "file": "appunti italiano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for appunti scienze disumane"
+              "title": "Backlinks for appunti italiano"
             }
           },
           {
@@ -173,9 +173,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Porn HUB.md",
     "appunti italiano.md",
     "Appunti Cheat sheet.md",
-    "Porn HUB.md",
     "esercizi spagnolo.md",
     "appunti spagnolo.md",
     "appunti storia.md",
