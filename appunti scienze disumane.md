@@ -422,4 +422,28 @@ questo esperimento affronta il __contrasto__ tra la __moralita__ che sente il so
 >_condizione per la quale un singolo o un gruppo sociale agisce per leggi esterne , rispetto alle proprie leggi morali_
 
 
+# Vandana Shiva
+_scienzata ecologista attivista politica indiana_
+### Le cause della poverta e le conseguenze del modello occidentale 
+Nel mondo esiste il nord e sud del mondo
+il nord è ricco con un pil alto
+nel sud e presente un gran numero di poverta 
+
+la crescita economica puo sembrare la soluzione per risollevare i paesi abbattuti
+ma la stessa crescita economica dei paesi occidentali sta distruggendo 
+
+vivere in modo sostenibile e non proporsi una crescita economica non vuol dire essere poveri e fare una brutta vita 
+la stessa concezione di ricchezza è __novita__ , due generazioni fa vivevamo tutti nello stesso modo 
+
+i poveri non sono quelli lasciati indietro , ma sono quelli che sono stati derubati dal processo di colonizzazione
+- la rivoluzione industriale e riuscita a funzionare cosi bene per 
+	linvasione dell america 
+	lo sfruttamento da parte delle colonie 
+
+la poverta
+il sistema capitalistico fa concepire come poverta una vita libera dal superfluo 
+i nostri beni superflui frutti del capitalismo sono il nostro manifesto di ricchezza e progresso
+
+vivere in modo sostenibile e non proporsi una crescita economica non vuol dire essere poveri e fare una brutta vita 
+la stessa concezione di ricchezza è __novita__ , due generazioni fa vivevamo tutti nello stesso modo 
 
