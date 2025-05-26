@@ -137,3 +137,9 @@ generacion nativos digitales
 - si sono dvuti adattare al mondo della teconologia , persone tra i 25 e i 70 che sono nati in un era pre digitale
 
 rete socialres 
+
+---
+# Lessico generacion Net
+elogios 
+aprovechamientos
+desafio
