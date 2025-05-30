@@ -334,3 +334,140 @@ Quando lo Stato non riesce a garantire:
 
 - **Sicurezza**, **salute**, **istruzione**, **occupazione**, **protezione dei più deboli**.
 - **Influenza delle lobby** sulle istituzioni.
+
+
+---
+[[Appunti di diritto.pdf]]
+### ✅ **ARGOMENTI PRESENTI + PAGINE**
+
+1. **Pubblica Amministrazione (PA)**  
+    📄 **Pagina 78–81**
+    
+    - Principi costituzionali (legalità, imparzialità, trasparenza...)
+        
+    - Organizzazione: diretta e indiretta, ministeri, enti locali
+        
+2. **Enti locali**  
+    📄 **Pagina 80–81**
+    
+    - Presidente della Giunta regionale
+        
+    - Sindaco  
+        (Trattati come organi dell’amministrazione periferica)
+        
+3. **Ripasso**  
+    📄 **Tutto il file** è utile come ripasso del programma, ma in particolare:
+    
+    - 📄 **Pagine 1–77**: stato, forme di governo, Costituzione, Parlamento, Governo, PDR, Corte costituzionale, magistratura, giudizio penale, giustizia amministrativa ecc.
+        
+
+---
+
+### ❌ **ARGOMENTI MANCANTI (non trovati nel file)**
+
+- **UE (Unione Europea)**
+    
+- **UEM (Unione Economica e Monetaria)**
+    
+- **Commercio internazionale**
+    
+- **ONU (Organizzazione delle Nazioni Unite)**
+    
+
+Questi non sono presenti in nessuna parte del file.
+
+---
+
+Fammi sapere se vuoi che ti prepari anche una mappa concettuale o una versione ancora più schematica delle schede!
+
+---
+
+### **1. Unione Europea (UE)**
+
+- **Nascita:** nasce come CECA (1951), poi CEE (1957, Trattato di Roma), diventa UE con il Trattato di Maastricht (1992).
+    
+- **Obiettivi:** pace, cooperazione economica, mercato unico, sviluppo sostenibile, diritti umani.
+    
+- **Istituzioni principali:**
+    
+    - **Commissione Europea:** propone le leggi, controlla l'applicazione dei trattati.
+        
+    - **Parlamento Europeo:** eletto dai cittadini, legifera insieme al Consiglio.
+        
+    - **Consiglio dell'UE:** rappresenta i governi dei singoli Stati.
+        
+    - **Consiglio Europeo:** riunisce i capi di Stato o di governo, decide le linee politiche generali.
+        
+    - **Corte di Giustizia:** garantisce l’applicazione del diritto UE.
+        
+- **Cittadinanza europea:** dà diritto a circolare, lavorare e votare in tutti i Paesi UE.
+    
+
+---
+
+### **2. Unione Economica e Monetaria (UEM)**
+
+- **Cos'è:** è il processo di integrazione economica tra gli Stati UE che ha portato all’introduzione dell’**euro** come moneta unica.
+    
+- **Tappe principali:**
+    
+    - 1992: Maastricht → criteri di convergenza.
+        
+    - 1999: nasce l’euro (usato per i pagamenti).
+        
+    - 2002: l’euro entra in circolazione.
+        
+- **Banca Centrale Europea (BCE):** ha sede a Francoforte, gestisce la politica monetaria dell’eurozona.
+    
+- **Criteri per entrare nell’eurozona:** inflazione stabile, finanza pubblica sotto controllo (deficit < 3%, debito < 60%), tassi di cambio stabili.
+    
+
+---
+
+### **3. Commercio Internazionale**
+
+- **Definizione:** insieme degli scambi di beni e servizi tra Stati.
+    
+- **Motivi:** specializzazione produttiva, risorse non disponibili a livello locale, maggiore concorrenza e scelta.
+    
+- **Organizzazione Mondiale del Commercio (WTO):**
+    
+    - Nata nel 1995.
+        
+    - Regola il commercio tra i Paesi.
+        
+    - Promuove la liberalizzazione degli scambi.
+        
+- **Protezionismo:** dazi e barriere per difendere i prodotti nazionali.
+    
+- **Libero scambio:** eliminazione di ostacoli per favorire il commercio.
+    
+- **Effetti:** crescita economica, ma anche rischi per le economie più deboli.
+    
+
+---
+
+### **4. Organizzazione delle Nazioni Unite (ONU)**
+
+- **Fondata nel 1945** dopo la Seconda Guerra Mondiale.
+    
+- **Sede:** New York.
+    
+- **Obiettivi:** mantenere la pace, promuovere diritti umani, cooperazione tra Stati.
+    
+- **Organi principali:**
+    
+    - **Assemblea Generale:** tutti i membri hanno diritto di voto.
+        
+    - **Consiglio di Sicurezza:** 15 membri (5 permanenti con diritto di veto: USA, Russia, Cina, Regno Unito, Francia).
+        
+    - **Segretariato:** guidato dal Segretario Generale (attualmente António Guterres).
+        
+    - **Corte Internazionale di Giustizia:** ha sede all’Aia, risolve controversie legali tra Stati.
+        
+- **Agenzie specializzate:** UNICEF, FAO, UNESCO, OMS, ecc.
+    
+
+---
+
+Fammi sapere se vuoi anche **domande in stile Quizlet** su queste schede oppure un riassunto più schematico da stampare o studiare.

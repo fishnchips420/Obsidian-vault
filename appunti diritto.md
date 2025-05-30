@@ -310,6 +310,229 @@ __TEMPISTICHE
 	- _dumping_ 
 		- vendita sui mercati esteri a prezzi inferiori rispetto a quelli del mercato nazionale 
 
+# Commercio Internazionale e Sistema Monetario Internazionale
+
+## Teoria dei costi comparati (David Ricardo)
+
+La teoria dei costi comparati spiega **quando conviene a un Paese commerciare con l'estero**:
+
+|Situazione|Spiegazione|Esito|
+|---|---|---|
+|**Costi di produzione uguali**|Tutti i Paesi producono con lo stesso costo.|**Nessuno scambio internazionale**.|
+|**Costi assoluti diversi ma costi comparati uguali**|I beni importati costano quanto quelli prodotti in patria.|**Nessuno scambio**.|
+|**Costi comparati diversi**|Ogni Paese ha un vantaggio relativo su un bene.|**Scambio conveniente**.|
+
+📌 Ogni Paese si specializza nella produzione del bene in cui ha un costo opportunità minore e scambia l'altro.
+
+---
+
+## Protezionismo e Libero Scambio
+
+### Protezionismo
+
+Lo Stato **limita le importazioni** per proteggere la produzione interna.
+
+**Strumenti protezionistici**:
+
+- **Dazi doganali**: tassa aggiuntiva sui beni importati
+    
+- **Contingenti**: limite massimo di beni importabili
+    
+- **Sussidi**: aiuti economici alle imprese nazionali
+    
+
+**Effetti**:  
+✅ Incrementa la domanda interna nei periodi di crisi  
+❌ Rischio di riduzione degli scambi e contrazione economica globale
+
+### Libero Scambio
+
+Totale libertà nei commerci internazionali, senza restrizioni.
+
+**Effetti**:  
+✅ Aumentano gli scambi e l'efficienza economica  
+❌ Le imprese meno competitive rischiano di fallire
+
+---
+
+## Ostacoli al libero scambio: Dumping
+
+Il **dumping** si verifica quando un’impresa vende all’estero un prodotto a **prezzo inferiore** rispetto a quello praticato sul mercato interno.
+
+🎯 Obiettivo: **conquistare i mercati stranieri** con prezzi aggressivi.
+
+🛑 È considerato una **pratica sleale** e dannosa per la concorrenza.
+
+---
+
+## Bilancia dei Pagamenti
+
+Misura i **flussi monetari** tra un Paese e il resto del mondo in un anno.
+
+### Componenti principali:
+
+1. **Bilancia delle partite correnti**
+    
+    - **Bilancia commerciale**: esportazioni - importazioni
+        
+    - **Partite invisibili**: servizi, turismo, rimesse degli emigrati
+        
+2. **Movimenti di capitale**
+    
+    - **Investimenti finanziari**: acquisto di titoli
+        
+    - **Investimenti diretti**: acquisto di beni strumentali
+        
+3. **Saldo della bilancia dei pagamenti** = partite correnti + movimenti di capitale
+    
+
+| Saldo positivo   | Saldo negativo      |
+| ---------------- | ------------------- |
+| Avanzo / Surplus | Disavanzo / Deficit |
+
+📊 **Squilibri** nella bilancia commerciale influenzano il **mercato delle valute**.
+
+---
+
+## Mercato delle Valute
+
+Luogo dove si scambiano le **valute internazionali**.
+
+🎯 Serve per regolare i pagamenti derivanti da scambi internazionali.
+
+---
+
+## Il Sistema Monetario Internazionale
+
+### Gold Standard (fino alla I Guerra Mondiale)
+
+- Le valute erano **convertibili in oro**.
+    
+- L’oro era usato come **moneta internazionale**.
+    
+
+### Regime di cambi fissi (1944 - 1971)
+
+- Istituito a **Bretton Woods (1944)**.
+    
+- Il dollaro era **l’unica valuta convertibile in oro**.
+    
+- Gli altri Paesi convertivano le proprie valute in dollari.
+    
+
+#### Il sistema del **Dollar Standard**
+
+- Le Banche centrali **accumulavano dollari** perché potevano convertirli in oro.
+    
+
+**Limiti:**
+
+- Speculazioni sull’oro
+    
+- Perdita di riserve auree USA
+    
+
+📆 **1971**: Il presidente **Nixon** sospende la convertibilità in oro → **fine del sistema**.
+
+---
+
+## Regime di cambi flessibili (dal 1971 ad oggi)
+
+Il **valore delle valute** è determinato dal mercato.
+
+Non ci sono più vincoli o parità fisse.
+
+Le **Banche centrali** possono comunque intervenire in caso di forti fluttuazioni.
+
+### Effetti delle variazioni dei cambi:
+
+|Tipo di variazione|Definizione|Effetti positivi|Effetti negativi|
+|---|---|---|---|
+|**Svalutazione (deprezzamento)**|La moneta perde valore rispetto ad un’altra.|Aumentano le esportazioni|Aumenta l’inflazione (merci importate più care)|
+|**Rivalutazione (apprezzamento)**|La moneta guadagna valore.|Diminuisce l’inflazione|Rallentano le esportazioni|
+
+---
+
+## [INTEGRAZIONE] Unione Europea (UE)
+
+- Nata con il **Trattato di Maastricht** (1992)
+    
+- Ha 27 Stati membri
+    
+- Obiettivi: **pace, libertà, sviluppo sostenibile, cittadinanza europea**
+    
+
+### Principali Istituzioni:
+
+|Istituzione|Funzione|
+|---|---|
+|**Commissione Europea**|Propone le leggi, vigila sull’applicazione dei trattati|
+|**Parlamento Europeo**|Eletto dai cittadini, approva le leggi e il bilancio|
+|**Consiglio dell’UE**|Rappresenta i governi, co-legifera col Parlamento|
+|**Consiglio Europeo**|Definisce le linee politiche generali|
+|**Corte di Giustizia**|Garantisce l’interpretazione uniforme del diritto UE|
+
+### Cittadinanza Europea:
+
+- Diritto di voto alle elezioni europee e comunali
+    
+- Libertà di circolazione e soggiorno
+    
+
+---
+
+## [INTEGRAZIONE] Unione Economica e Monetaria (UEM)
+
+- È il processo di integrazione economica culminato nella **moneta unica: l’euro**
+    
+- Nata con Maastricht, realizzata nel 1999 (euro virtuale) e nel 2002 (euro fisico)
+    
+
+### Organo principale:
+
+- **Banca Centrale Europea (BCE)**: gestisce la politica monetaria della zona euro
+    
+
+### Criteri di convergenza per aderire:
+
+- Inflazione bassa
+    
+- Deficit pubblico < 3%
+    
+- Debito pubblico < 60% del PIL
+    
+- Tassi di cambio stabili
+    
+
+🎯 Obiettivo: **stabilità monetaria e integrazione economica** fra gli Stati UE
+
+---
+
+## [INTEGRAZIONE] Organizzazione delle Nazioni Unite (ONU)
+
+- Fondata nel **1945** dopo la Seconda Guerra Mondiale
+    
+- Obiettivi: **pace, diritti umani, cooperazione internazionale**
+    
+- Sede: **New York**
+    
+
+### Organi principali:
+
+|Organo|Funzione|
+|---|---|
+|**Assemblea Generale**|Tutti i Paesi membri, deliberazioni generali|
+|**Consiglio di Sicurezza**|15 membri (5 permanenti con diritto di veto: USA, Russia, Cina, Francia, Regno Unito)|
+|**Segretariato**|Amministrazione, guidato dal Segretario Generale (attuale: António Guterres)|
+|**Corte Internazionale di Giustizia**|Risolve le controversie fra Stati, sede all’Aia|
+
+### Agenzie specializzate:
+
+- **OMS**, **UNICEF**, **UNESCO**, **FAO** ecc.
+    
+
+🕊️ L'ONU svolge missioni di pace, assistenza umanitaria, sviluppo sostenibile e cooperazione internazionale.
+
 
 
 
