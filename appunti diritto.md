@@ -464,13 +464,13 @@ Le **Banche centrali** possono comunque intervenire in caso di forti fluttuazion
 
 ### Principali Istituzioni:
 
-|Istituzione|Funzione|
-|---|---|
-|**Commissione Europea**|Propone le leggi, vigila sull’applicazione dei trattati|
-|**Parlamento Europeo**|Eletto dai cittadini, approva le leggi e il bilancio|
-|**Consiglio dell’UE**|Rappresenta i governi, co-legifera col Parlamento|
-|**Consiglio Europeo**|Definisce le linee politiche generali|
-|**Corte di Giustizia**|Garantisce l’interpretazione uniforme del diritto UE|
+| Istituzione             | Funzione                                                |
+| ----------------------- | ------------------------------------------------------- |
+| **Commissione Europea** | Propone le leggi, vigila sull’applicazione dei trattati |
+| **Parlamento Europeo**  | Eletto dai cittadini, approva le leggi e il bilancio    |
+| **Consiglio dell’UE**   | Rappresenta i governi, co-legifera col Parlamento       |
+| **Consiglio Europeo**   | Definisce le linee politiche generali                   |
+| **Corte di Giustizia**  | Garantisce l’interpretazione uniforme del diritto UE    |
 
 ### Cittadinanza Europea:
 
@@ -533,6 +533,168 @@ Le **Banche centrali** possono comunque intervenire in caso di forti fluttuazion
 
 🕊️ L'ONU svolge missioni di pace, assistenza umanitaria, sviluppo sostenibile e cooperazione internazionale.
 
+---
 
+Gli organi principali dell'**ONU (Organizzazione delle Nazioni Unite)** sono **sei**. Ognuno ha funzioni e competenze specifiche che contribuiscono al funzionamento dell'organizzazione a livello globale:
 
+---
+
+### 1. **Assemblea Generale**
+
+- **Composizione:** Tutti gli Stati membri (attualmente 193).
+    
+- **Funzioni:** Forum di discussione; approva il bilancio dell’ONU; elegge i membri di altri organi; adotta risoluzioni (non vincolanti).
+    
+- **Riunioni:** Una volta all’anno in sessione ordinaria (settembre), ma può convocare sessioni straordinarie.
+    
+
+---
+
+### 2. **Consiglio di Sicurezza**
+
+- **Composizione:** 15 membri (5 permanenti con diritto di veto: USA, Russia, Cina, Francia, Regno Unito + 10 a rotazione).
+    
+- **Funzioni:** Mantiene la pace e la sicurezza internazionale; può imporre sanzioni o autorizzare l’uso della forza.
+    
+- **Poteri:** Le sue risoluzioni sono **vincolanti** per gli Stati membri.
+    
+
+---
+
+### 3. **Consiglio Economico e Sociale (ECOSOC)**
+
+- **Composizione:** 54 membri eletti dall'Assemblea Generale.
+    
+- **Funzioni:** Coordina l’attività economica, sociale e ambientale dell’ONU; collabora con ONG e agenzie specializzate (come FAO, UNESCO, OMS).
+    
+
+---
+
+### 4. **Corte Internazionale di Giustizia (CIG)**
+
+- **Sede:** L’Aia (Paesi Bassi).
+    
+- **Composizione:** 15 giudici eletti da Assemblea Generale e Consiglio di Sicurezza.
+    
+- **Funzioni:** Risolve controversie legali tra Stati; fornisce pareri giuridici su questioni internazionali.
+    
+- **Nota:** Possono rivolgersi solo gli Stati, non i privati cittadini.
+    
+
+---
+
+### 5. **Segretariato**
+
+- **Guida:** Il Segretario Generale (attualmente António Guterres).
+    
+- **Funzioni:** Amministra l’ONU; mette in atto le decisioni degli altri organi; promuove la diplomazia e la pace.
+    
+- **Ruolo:** Esecutivo e diplomatico.
+    
+
+---
+
+### 6. **Consiglio di Amministrazione Fiduciaria**
+
+- **Funzioni originarie:** Supervisione dei territori sotto amministrazione fiduciaria (colonie in via di indipendenza).
+    
+- **Attuale stato:** **Sospeso** dal 1994, dopo l’indipendenza dell’ultimo territorio fiduciario (Palau).
+    
+
+---
+
+Se vuoi posso prepararti anche una versione in formato tabella o una sintesi per Quizlet. Fammi sapere!
+
+Perfetto! Ecco un **approfondimento chiaro e schematico** su **Pubblica Amministrazione (PA)** ed **Enti Locali**, con un focus anche su **come interagiscono**:
+
+---
+
+## 🏛️ **1. PUBBLICA AMMINISTRAZIONE (PA)**
+
+### 🔹 **Cos’è**
+
+L’insieme degli **enti pubblici** e dei **soggetti giuridici** che esercitano funzioni amministrative per **realizzare interessi collettivi**, nel rispetto delle leggi.
+
+### 🔹 **Tipi di PA**
+
+1. **Centrale** (nazionale):
+    
+    - Ministeri (es. Ministero dell’Istruzione)
+        
+    - Agenzie (es. INPS, Agenzia delle Entrate)
+        
+2. **Locale** (territoriale):
+    
+    - Regioni, Province, Città metropolitane, Comuni
+        
+3. **Autonome e funzionali**:
+    
+    - Università, scuole, ASL, camere di commercio
+        
+
+### 🔹 **Principi costituzionali**
+
+- Legalità (art. 97)
+    
+- Imparzialità
+    
+- Buon andamento
+    
+- Trasparenza
+    
+- Responsabilità
+    
+- Partecipazione dei cittadini
+    
+
+---
+
+## 🏙️ **2. ENTI LOCALI**
+
+### 🔹 **Cosa sono**
+
+Sono gli enti **territoriali** della Repubblica che operano localmente con **autonomia amministrativa, normativa e finanziaria**.
+
+### 🔹 **Principali Enti Locali**
+
+|Tipo|Funzioni|
+|---|---|
+|**Comune**|Servizi essenziali (anagrafe, rifiuti, urbanistica, trasporto locale)|
+|**Provincia / Città Metropolitana**|Coordinamento tra comuni, viabilità, edilizia scolastica|
+|**Regione**|Sanità, trasporti regionali, formazione, sviluppo economico|
+
+### 🔹 **Autonomia**
+
+- **Statutaria:** possono dotarsi di un proprio statuto
+    
+- **Finanziaria:** gestiscono il proprio bilancio e possono riscuotere imposte locali
+    
+- **Organizzativa e regolamentare:** decidono come organizzarsi internamente
+    
+
+---
+
+## 🔄 **3. RAPPORTO TRA PA E ENTI LOCALI**
+
+|Aspetto|Descrizione|
+|---|---|
+|**Decentramento**|Gli Enti Locali sono espressione del **decentramento amministrativo**, che porta i servizi pubblici più vicino ai cittadini|
+|**Sussidiarietà**|Le funzioni devono essere svolte dal livello più vicino ai cittadini, salvo necessità di coordinamento|
+|**Cooperazione**|Spesso PA centrali e locali collaborano per politiche pubbliche integrate (es. sanità, istruzione, trasporti)|
+|**Controllo**|Lo Stato controlla che gli enti locali rispettino la legge, ma non può interferire nelle scelte autonome|
+
+---
+
+### 📌 **Esempio pratico di interazione**
+
+- Lo **Stato** (PA centrale) fissa i **LEP** (livelli essenziali delle prestazioni)
+    
+- La **Regione** organizza la sanità secondo le esigenze del territorio
+    
+- L’**ASL** (ente funzionale locale) gestisce concretamente ospedali e ambulatori
+    
+
+---
+
+Vuoi che trasformi tutto questo in formato **Quizlet** (domanda e risposta)?
 
