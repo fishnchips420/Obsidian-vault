@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4251d4bd7e4afb03",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b96a6165d1373f2f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Porn HUB.md",
+                "file": "Project lalla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Porn HUB"
+              "title": "Project lalla"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f20d39b9cfac9aa7",
@@ -170,16 +171,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b96a6165d1373f2f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "CHEAT SHEAT CREATIVA.md",
+    "Porn HUB.md",
     "appunti storia.md",
     "appunti scienze disumane.md",
     "Appunti Cheat sheet.md",
-    "Porn HUB.md",
     "appunti diritto.md",
     "appunti diritto formattati.md",
     "4-assets/shit scolastica/Diritto/Appunti di diritto.pdf",
-    "CHEAT SHEAT CREATIVA.md",
     "appunti spagnolo.md",
     "Pasted image 20250517095125.png",
     "appunti italiano.md",
