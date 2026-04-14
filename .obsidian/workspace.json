@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HHUB.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HHUB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85da953640f6bac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca8c793267bcce46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06836e70cd592c8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "8a6e62de42c7214a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Hh",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "84b3bcd7f251515f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77d7f14b55a01de7",
+    "type": "split",
+    "children": [
+      {
+        "id": "57907b746a452575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8760b4a7b3ecc7d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8c703909ee917355",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6f967fa1c457e29d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3d916860996e88ec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a895a1cf394dc905",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "HHUB.md",
+    "Link utili.md",
+    "Appunti uni.md",
+    "chiarimento puntatori.md",
+    "esercizi fisica.md",
+    "piano di studio x parziale.md",
+    "caccia al tesoro baby.md",
+    "CHEAT SHEAT CREATIVA.md",
+    "Obsidian-vault/Link utili.md",
+    "strutture.md",
+    "sticker.md",
+    "soldi su soldi.md",
+    "skill.md",
+    "sito babbo.md",
+    "simulazione ofa.md",
+    "simulazione 1.md",
+    "Short macchinista.md",
+    "Sedia Laura.md",
+    "secret pjocet L.T.A..md",
+    "Scuola guida.md",
+    "Screenshot 2025-05-05 233850.png",
+    "Screenshot 2025-05-05 233841.png",
+    "rubrica_telefonica.md",
+    "Roma.md",
+    "risultati indeterminati limiti.md",
+    "ripasso ofa.md",
+    "registrare canzoni live.md",
+    "regalo laura.md",
+    "Pasted image 20250517095125.png",
+    "Pasted image 20250505084209.png",
+    "Pasted image 20250307130719.png",
+    "Pasted image 20250305191553.png",
+    "Pasted image 20250113114322.png",
+    "Pasted image 20241226180800.png",
+    "Pasted image 20241217164403.png",
+    "Pasted image 20241217164134.png",
+    "matdid842339.pdf",
+    "matdid259140.pdf",
+    "matdid015764.pdf",
+    "il mio flusso.pdf",
+    "CHEAT SHEAT CREATIVA.md.orig",
+    "C_Canuto,_A_Tabacco_Analisi_Matematica_I_Teoria_ed_esercizi_con.pdf",
+    "biscotti_ricalcolati.exe",
+    "23-09-06SOL.pdf",
+    "23-07-13SOL.pdf",
+    "23-06-15SOL.pdf"
+  ]
+}
