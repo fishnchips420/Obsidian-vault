@@ -13,6 +13,7 @@ tags:
 [[Laura]]
 [[Il giorno in cui venni svuotato per divenire un conseguenza]]
 [[io , peggior nemico di me stesso]]
+[[cara laura]]
 # Scout shit
 [[isola delba]]
 [[attivita lettura]]
@@ -37,7 +38,8 @@ tags:
 [[croazia]]
 # Manuali
 [[Illustrator_man]]
-
+# Ricette
+[[tortini]]
 # 1 storia al giorno
 [[tristan]]
 [[il soldato felice]]

@@ -122,3 +122,14 @@ Ci provo , è stata una settimana tosta , ma ci ho provato a dimostrartelo cazzo
 ogni tanto ho la maledizione che risorge tutto quanto come uno zombie , a guardarmi da lontano , deluso di cio che sono diventato , un inutile sacco di mosche , come tutti , pero consapevole di starmi ferendo.
 ogni mia parola e uguale dici , ogni dettaglio non ti va giu , io sono stufo , stufo di scontrarmi con me stesso per te , vigliacca putrida che non hai il coraggio di guardarti negli occhi e di ammettere tutot cio che mi hai fatto diventare , ma invece lamentarti di cio , sono cazzi tuoi sono cazzituoiusonocazzituoisonocazzituoisonocazzituoisonocazzituoisonoacazzituoi infilaterli nel culo cazzo 
 
+# Perché trascendiamo
+quando ci si mette a parlare di trascendenza , parlare di argomenti profondi si apre una finestra per buttarci dentro tutto ciò che abbiamo vissuto noi , nella nostra chiave.
+prima di tutto è un modo per fissare quello che si ha vissuto , le emozioni che ci ha fatto provare , che sentimenti ci ha provocato , che importanza gli diamo nel momento in cui ci pensiamo.
+
+Una specie di esame di autocoscienza collettivo.
+
+Mi manca , lo trovavo con raffo con le bombe..
+
+Una finestra del genere è quello che ti permette di dare sfogo alla valvola di trascendenza.
+Un bisogno umano di riuscire a visualizzare tutto quanto , dedicarsi del tempo , e avere una persona che funge sia da attacco alla realtà oggettiva delle cose ( che permette di non divagare troppo o soffermarsi su una cosa che ci provocherebbe troppo per essere vista da soli) e sia da punto di vista esterno.
+Mi manca la trascendenza nella mia vita. 

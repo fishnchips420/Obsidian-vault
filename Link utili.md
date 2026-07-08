@@ -33,7 +33,7 @@ https://www.youmath.it/lezioni/analisi-matematica/limiti-continuita-e-asintoti.h
 
 # Fondamenti di informatica 
 - Fondamenti di informatica
-https://learn.univpm.it/course/view.php?id=26633
+https://learn.univpm.it/course/view.php?id=26633#
 
 # Elementi di algebra lineare e gemoetria 
 - Elementi di algebra lineare e geometria
